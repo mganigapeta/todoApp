@@ -36,7 +36,10 @@
   }
   
 .todo-name {
-    cursor: pointer;
+    color: #898585;
+	  font-size: 14px;
+    line-height: 18px;
+    font-weight: normal;
 }
 .completed {
     text-decoration: line-through;
